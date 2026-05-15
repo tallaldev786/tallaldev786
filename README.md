@@ -182,7 +182,7 @@
 <tr>
 <td bgcolor="#0F172A" align="center" width="50%" valign="top">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=12&pause=3000&color=C2410C&center=true&vCenter=true&width=200&lines=%F0%9F%94%A5+STREAK+STATS"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tallalmansoor&theme=dark&hide_border=true&ring=F59E0B&fire=C2410C&currStreakLabel=F59E0B"/>
+<img src="https://streak-stats.demolab.com/?user=tallalmansoor&theme=dark&hide_border=true&ring=F59E0B&fire=C2410C&currStreakLabel=F59E0B"/>
 </td>
 <td bgcolor="#0F172A" align="center" width="50%" valign="top">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=12&pause=3000&color=F59E0B&center=true&vCenter=true&width=200&lines=%F0%9F%8F%86+TROPHIES"/><br/>
